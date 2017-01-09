@@ -5,14 +5,13 @@ Fork or Clone the master branch of this repo.
 All the images are provided in the img folder
 
 
-1: int he index.html, create a div with a class of parallax and logo-photo
-'<div class="parallax logo-photo"></div>'
 
 1. In the index.html, create a div with a class of parallax and logo-photo
-'<div class="parallax logo-photo"></div>'
+<!--<div class="parallax logo-photo"></div>-->
 2. Create another div below it with the class of words, and add words inside to be able to see the effect.
-'<div class="words">Some words here</div>'
+<!--<div class="words">Some words here</div>-->
 3. In the main.css, give your parallax class and set height, as well as the following styling:
+    <br/>
     .parallax {
         /* Set a specific height */
         height: calc(100vh - 50px); 
