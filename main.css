@@ -1,0 +1,56 @@
+.header-words {
+    font-size: 3em;
+    text-align: center;
+}
+
+.parallax {
+        /* The image used */    
+    /*background-image: url("https://unsplash.it/500/?random");*/
+    
+    /* Set a specific height */
+    height: calc(100vh - 50px); 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-photo{
+    background-image: url("./img/starwarslogo.jpg");
+    height: 100vh;
+}
+
+.photo1{
+    background-image: url("./img/lego-starwars.jpg");
+}
+.photo2{
+    background-image: url("./img/photo1.jpeg");
+}
+.photo3{
+    background-image: url("./img/lego-yoda.jpg");
+}
+.words {
+    height: 50px;
+    background-color: #ccc;
+}
+
+.photoOverlay{
+    position: absolute;
+    bottom: 50px;
+    right: 40px;
+    height: 150px;
+}
+
+.vader-fight{
+    background-image: url("./img/large-vader-fighter.gif");
+    width: 60px;
+    height: auto;
+}
+
+.yoda-fight{
+    background-image: url("./img/yoda-lightsaber.gif");
+    width: 125px;
+    height: auto;
+}
