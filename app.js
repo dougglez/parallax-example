@@ -1,4 +1,7 @@
 $(document).ready(function () {
+
+    //darth vader flies off screen. He has absolute positioning, 
+    //and as the parent div gets bigger, he stays in the same place on thta div.
     $(window).scroll(function () {
         var scroll = $(window).scrollTop();
         $(".zoom-me").css({
@@ -10,7 +13,7 @@ $(document).ready(function () {
         });
     });
 
-    //Darth Vader flips as he flies out of the screen
+    //Darth Vader flips as he flies off the screen
     var $cog = $('#cog'),
         $body = $(document.body),
         bodyHeight = $body.height();
