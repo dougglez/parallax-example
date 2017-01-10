@@ -13,8 +13,9 @@ https://dougglez.github.io/parallax-example/
 `<div class="words">Some words here</div>`
 3. In the main.css, give your parallax class and set height, as well as the following styling:
     <br/>
-    .parallax {<br/>
-        /* Set a specific height */<br/>
+    ```css
+    .parallax {
+        /* Set a specific height */
         height: calc(100vh - 50px); 
 
         /* Create the parallax scrolling effect */
@@ -23,6 +24,7 @@ https://dougglez.github.io/parallax-example/
         background-repeat: no-repeat;
         background-size: cover;
     }
+```
 4. Give your logo-photo class a height of 100vh and add the starwarslogo background image
 5. Give your words class a height, background-color, and change the font size if you want. (this part isn't required if you don't want it. It is only here to help you see the effect of the parallax scrolling)
 6. Repeat steps 1 & 2, with the exception of changing logo-photo to photo"_*n*_" ex. photo1
@@ -37,7 +39,7 @@ If you want to give a layered effect, with closer layers scrolling faster than b
 4. We'll need a function that will gather information about how fast we're scrolling, and then translate that into scrolling speeds for the images. It should also be able to have varible speeds, so you can choose which elements scroll faster and/or slower.
 
 
-`
+```js
  $.fn.moveIt = function () {
         var $window = $(window);
         var instances = [];
@@ -68,7 +70,7 @@ If you want to give a layered effect, with closer layers scrolling faster than b
     $(function () {
         $('[data-scroll-speed]').moveIt();
     });
-`
+```
 
 <hr> 
 ### Make Darth Vader Fly out of the window on scroll
@@ -82,7 +84,7 @@ If Darth Vader has absolute positioning inside of the first div, then it stands 
 2. as we scroll down, we'll increase the width, and move the div up.
 3. if we scroll up, we'll deecrease the width, and move the div down.
 
-`
+```js
  $(window).scroll(function () {
         var scroll = $(window).scrollTop();
         $(".zoom-me").css({
@@ -90,7 +92,7 @@ If Darth Vader has absolute positioning inside of the first div, then it stands 
             top: -(scroll / 10) + "%",
         });
     });
-`
+```
 
 <hr>
 
@@ -106,7 +108,7 @@ If Darth Vader has absolute positioning inside of the first div, then it stands 
 
 
 
-`
+```js
     var $cog = $('.cog');
     var $body = $(document.body);
     var bodyHeight = $body.height();
@@ -117,5 +119,5 @@ If Darth Vader has absolute positioning inside of the first div, then it stands 
             'transform': 'rotate(' + ($body.scrollTop() / bodyHeight * 3600) + 'deg)'
         });
     });
-`
+```
 
