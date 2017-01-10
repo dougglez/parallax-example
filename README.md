@@ -5,7 +5,7 @@ Fork or Clone the master branch of this repo.
 All the images are provided in the img folder
 
 view the demo here:
-link
+https://dougglez.github.io/parallax-example/
 
 1. In the index.html, create a div with a class of parallax and logo-photo<br/>
 `<div class="parallax logo-photo"></div>`
