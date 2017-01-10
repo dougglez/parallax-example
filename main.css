@@ -48,24 +48,21 @@
     background-color: #ccc;
 }
 
-.photoOverlay{
+.cog{
     position: absolute;
-    bottom: 50px;
-    left: 48%;
     height: 150px;
 }
-
-/*.vader-fight{
-    background-image: url("./img/large-vader-fighter.gif");
-    width: 60px;
-    height: auto;
+.vader{
+    bottom: 50px;
+    left: 48%;
 }
 
-.yoda-fight{
-    background-image: url("./img/yoda-lightsaber.gif");
-    width: 125px;
-    height: auto;
+
+/*.yoda{
+    bottom: 50px;
+    left: 8%;
 }*/
+
 
 
 

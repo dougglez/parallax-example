@@ -14,7 +14,7 @@ $(document).ready(function () {
     });
 
     //Darth Vader flips as he flies off the screen
-    var $cog = $('#cog'),
+    var $cog = $('.cog'),
         $body = $(document.body),
         bodyHeight = $body.height();
 
