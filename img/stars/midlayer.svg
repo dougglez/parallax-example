@@ -1,0 +1,811 @@
+<svg width="867" height="1310" viewBox="0 0 867 1310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>midlayer</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(564 1157)" figma:type="canvas">
+<rect x="-564" y="-1157" width="867" height="1310" fill="none"/>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-307 -431)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-282.5 -374.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-195 -447)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-181 -290.5)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-137 -232)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-222 -182.75)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-144.5 -378)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-148.25 -144)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-167.25 -134)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-342 -294.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-268.75 -252)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-235.5 -334)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-303.25 -192)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-261.25 -179)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-251.25 -169)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-142.25 -358.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-117.75 -301.5)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-30.25 -374.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-16.25 -217.75)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(27.75 -159.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-57.25 -110)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(20.25 -305.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(16.5 -71.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-2.5 -61.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-177.25 -221.5)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-104 -179.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-70.75 -261.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-138.5 -119.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-96.5 -106.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-86.5 -96.25)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -227.933 -244.201)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -284.187 -269.819)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -300.208 -157.159)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -415.639 -263.761)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -487.522 -277.587)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -457.579 -371.149)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -383.957 -174.404)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -538.255 -350.365)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -530.884 -370.531)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -293.786 -369.056)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -376.441 -351.202)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -346.043 -268.103)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -391.146 -418.834)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -431.003 -400.276)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -445.128 -400.976)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -386.429 26.7034)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -410.912 -30.0538)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -498.434 42.6705)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -512.388 -113.834)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -556.371 -172.347)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -471.356 -221.572)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -548.913 -26.3444)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -545.095 -260.343)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -526.092 -270.338)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -351.389 -110.036)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -424.626 -152.308)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -457.901 -70.3176)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -390.109 -212.298)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -432.105 -225.31)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -442.102 -235.313)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -62.4277 -56.1258)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -122.95 -43.5604)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -69.3182 56.8013)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -225.43 38.9872)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -291.595 70.3003)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -322.712 -22.8785)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -147.077 92.3659)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -375.524 41.5533)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -381.492 20.9283)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -189.323 -117.957)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -245.463 -54.7196)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -171.843 -5.63233)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -297.283 -100.599)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -318.478 -62.0793)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -330.287 -54.2988)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -45.9464 153.043)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -0.18835 111.486)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -97.3536 52.2596)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 46.1795 -11.666)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 87.2785 -72.2393)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 161.4 -7.76848)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -48.4254 -17.8637)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 174.18 -90.093)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 189.794 -75.3551)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 94.7689 141.873)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 111.021 58.8879)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 22.6725 53.984)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 178.96 72.0987)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 177.659 28.1521)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 183.882 15.4526)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 239.514 -108.325)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 208.953 -162.054)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 129.936 -80.169)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 98.9 -234.198)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 48.7645 -287.534)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 127.867 -345.787)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 72.1911 -143.23)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 50.3203 -376.236)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 68.1123 -388.255)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 259.344 -248.083)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 181.912 -282.067)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 157.832 -196.921)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 209.641 -345.481)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 166.471 -353.808)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 155.437 -362.654)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 23.1993 -223.959)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 33.7248 -284.869)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -79.3171 -271.817)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -5.44753 -410.495)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -10.2903 -483.534)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 87.8063 -478.28)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -83.8592 -357.202)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 47.2556 -551.055)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 68.6313 -549.036)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 127.29 -319.304)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 89.0722 -394.736)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 16.3894 -344.271)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 150.77 -426.1)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 122.717 -459.953)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 119.814 -473.794)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -191.43 -337.787)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -180.904 -398.697)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -293.946 -385.645)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -220.076 -524.323)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -224.919 -597.362)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -126.823 -592.107)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -298.488 -471.03)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -167.373 -664.883)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -145.998 -662.864)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -87.3388 -433.132)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -125.557 -508.564)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -198.24 -458.098)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -63.8593 -539.928)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -91.9118 -573.781)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -94.8147 -587.622)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -430.151 -374.418)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -419.625 -435.328)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -532.667 -422.276)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -458.798 -560.954)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -463.64 -633.994)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -365.544 -628.739)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -537.209 -507.661)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -406.094 -701.514)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -384.719 -699.495)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -326.06 -469.763)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -364.278 -545.195)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -436.961 -494.73)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -302.58 -576.559)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -330.633 -610.412)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.837196 -0.546903 0.546903 -0.837196 -333.536 -624.253)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-263.048 -1140.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-238.548 -1083.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-151.048 -1156.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-137.048 -999.88)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-93.0482 -941.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-178.048 -892.13)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-100.548 -1087.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-104.298 -853.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-123.298 -843.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-298.048 -1003.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-224.798 -961.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-191.548 -1043.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-259.298 -901.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-217.298 -888.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-207.298 -878.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-98.2982 -1067.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-73.7982 -1010.88)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(13.7018 -1083.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(27.7018 -927.13)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(71.7018 -868.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-13.2982 -819.38)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(64.2018 -1014.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(60.4518 -780.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(41.4518 -770.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-133.298 -930.88)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-60.0482 -888.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-26.7982 -970.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-94.5482 -828.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-52.5482 -815.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="translate(-42.5482 -805.63)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -183.981 -953.581)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -240.235 -979.199)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -256.257 -866.54)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -371.687 -973.142)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -443.57 -986.967)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -413.627 -1080.53)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -340.005 -883.784)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -494.303 -1059.75)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -486.933 -1079.91)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -249.835 -1078.44)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -332.49 -1060.58)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -302.091 -977.483)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -347.194 -1128.21)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -387.051 -1109.66)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.741213 0.67127 -0.67127 -0.741213 -401.176 -1110.36)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -342.477 -682.677)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -366.961 -739.434)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -454.482 -666.71)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -468.436 -823.214)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -512.419 -881.727)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -427.404 -930.952)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -504.962 -735.725)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -501.143 -969.724)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -482.14 -979.718)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -307.437 -819.417)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -380.675 -861.688)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -413.949 -779.698)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -346.157 -921.678)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -388.153 -934.69)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-1 -0.00029412 0.00029412 -1 -398.15 -944.693)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -18.4759 -765.506)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -78.998 -752.941)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -25.3664 -652.579)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -181.478 -670.393)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -247.643 -639.08)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -278.76 -732.259)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -103.125 -617.015)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -331.572 -667.827)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -337.54 -688.452)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -145.372 -827.337)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -201.512 -764.1)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -127.891 -715.013)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -253.331 -809.98)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -274.526 -771.46)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.201451 0.979499 -0.979499 -0.201451 -286.335 -763.679)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -1.99454 -556.337)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 43.7635 -597.895)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -53.4018 -657.121)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 90.1314 -721.046)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 131.23 -781.62)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 205.352 -717.149)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 -4.47356 -727.244)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 218.131 -799.473)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 233.745 -784.736)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 138.721 -567.508)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 154.973 -650.493)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 66.6244 -655.396)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 222.912 -637.282)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 221.611 -681.228)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.323834 -0.946114 0.946114 -0.323834 227.834 -693.928)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 283.466 -817.706)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 252.904 -871.435)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 173.888 -789.549)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 142.852 -943.579)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 92.7163 -996.914)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 171.819 -1055.17)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 116.143 -852.611)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 94.2721 -1085.62)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 112.064 -1097.64)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 303.296 -957.464)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 225.864 -991.447)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 201.783 -906.302)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 253.593 -1054.86)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 210.423 -1063.19)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path2_fill" transform="matrix(-0.993998 0.109395 -0.109395 -0.993998 199.389 -1072.03)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 7.5 3.75C 7.5 5.82107 5.82107 7.5 3.75 7.5C 1.67893 7.5 0 5.82107 0 3.75C 0 1.67893 1.67893 0 3.75 0C 5.82107 0 7.5 1.67893 7.5 3.75Z"/>
+<path id="path1_fill" d="M 3.75 0L 4.59193 2.59119L 7.31646 2.59119L 5.11227 4.19263L 5.95419 6.78381L 3.75 5.18237L 1.54581 6.78381L 2.38773 4.19263L 0.183538 2.59119L 2.90807 2.59119L 3.75 0Z"/>
+<path id="path2_fill" d="M 3.75 0L 4.592 2.59108L 7.31646 2.59119L 5.11239 4.19267L 5.95419 6.78381L 3.75 5.1825L 1.54581 6.78381L 2.38761 4.19267L 0.183538 2.59119L 2.908 2.59108L 3.75 0Z"/>
+</defs>
+</svg>

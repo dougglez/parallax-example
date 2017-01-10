@@ -1,0 +1,105 @@
+<svg width="666" height="784" viewBox="0 0 666 784" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>front</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(321 307)" figma:type="canvas">
+<rect x="-321" y="-307" width="666" height="784" fill="none"/>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-297 -304)" fill="#F2994A" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-300 -307)" fill="#F2994A" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-193 460)" fill="#F2994A" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path1_fill" transform="translate(-196 457)" fill="#F2994A" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path2_fill" transform="translate(-121.909 -219.909)" fill="#5B0202" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path3_fill" transform="translate(-126 -224)" fill="#5B0202" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path2_fill" transform="translate(319.091 181.091)" fill="#5B0202" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path3_fill" transform="translate(315 177)" fill="#5B0202" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path2_fill" transform="translate(175.091 0.090909)" fill="#EDEDED" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path3_fill" transform="translate(171 -4)" fill="#EDEDED" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path2_fill" transform="translate(-300.409 352.091)" fill="#EDEDED" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path3_fill" transform="translate(-304.5 348)" fill="#EDEDED" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path4_fill" transform="translate(-317.136 104.364)" fill="#800101" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path5_fill" transform="translate(-321.5 100)" fill="#800101" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path6_fill" transform="translate(103.455 -94.5455)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path7_fill" transform="translate(101 -97)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path6_fill" transform="translate(-234.545 -56.5455)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path7_fill" transform="translate(-237 -59)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path6_fill" transform="translate(85.4545 325.455)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path7_fill" transform="translate(83 323)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path6_fill" transform="translate(280.455 -282.545)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Star" style="mix-blend-mode:normal;" figma:type="star">
+<use xlink:href="#path7_fill" transform="translate(278 -285)" fill="#CC6204" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 15 7.5C 15 11.6421 11.6421 15 7.5 15C 3.35786 15 0 11.6421 0 7.5C 0 3.35786 3.35786 0 7.5 0C 11.6421 0 15 3.35786 15 7.5Z"/>
+<path id="path1_fill" d="M 11 0L 13.4697 7.60081L 21.4616 7.60081L 14.996 12.2984L 17.4656 19.8992L 11 15.2016L 4.53436 19.8992L 7.00402 12.2984L 0.538378 7.60081L 8.53035 7.60081L 11 0Z"/>
+<path id="path2_fill" d="M 20.4545 10.2273C 20.4545 15.8756 15.8756 20.4545 10.2273 20.4545C 4.57891 20.4545 0 15.8756 0 10.2273C 0 4.57891 4.57891 0 10.2273 0C 15.8756 0 20.4545 4.57891 20.4545 10.2273Z"/>
+<path id="path3_fill" d="M 15 0L 18.3677 10.3647L 29.2658 10.3647L 20.4491 16.7705L 23.8168 27.1353L 15 20.7295L 6.18322 27.1353L 9.55093 16.7705L 0.734152 10.3647L 11.6323 10.3647L 15 0Z"/>
+<path id="path4_fill" d="M 21.8182 10.9091C 21.8182 16.934 16.934 21.8182 10.9091 21.8182C 4.88417 21.8182 0 16.934 0 10.9091C 0 4.88417 4.88417 0 10.9091 0C 16.934 0 21.8182 4.88417 21.8182 10.9091Z"/>
+<path id="path5_fill" d="M 16 0L 19.5922 11.0557L 31.2169 11.0557L 21.8123 17.8885L 25.4046 28.9443L 16 22.1115L 6.59544 28.9443L 10.1877 17.8885L 0.783096 11.0557L 12.4078 11.0557L 16 0Z"/>
+<path id="path6_fill" d="M 12.2727 6.13636C 12.2727 9.52538 9.52538 12.2727 6.13636 12.2727C 2.74734 12.2727 0 9.52538 0 6.13636C 0 2.74734 2.74734 0 6.13636 0C 9.52538 0 12.2727 2.74734 12.2727 6.13636Z"/>
+<path id="path7_fill" d="M 9 0L 11.0206 6.21885L 17.5595 6.21885L 12.2694 10.0623L 14.2901 16.2812L 9 12.4377L 3.70993 16.2812L 5.73056 10.0623L 0.440491 6.21885L 6.97937 6.21885L 9 0Z"/>
+</defs>
+</svg>
